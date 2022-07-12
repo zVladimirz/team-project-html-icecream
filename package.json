@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Artem-Borzov.github.io/FSS-icecream",
+  "homepage": "https://zvladimirz.github.io/team-project-html-icecream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /FSS-icecream/"
+    "build": "parcel build src/*.html --public-url /team-project-html-icecream/"
   },
   "repository": {
     "type": "git",
